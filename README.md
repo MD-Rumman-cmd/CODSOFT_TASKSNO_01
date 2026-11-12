@@ -1,2 +1,2 @@
-# CODESOFT_TASKSNO_01
-This is my first task of codesoft internship.
+# CODSOFT_TASKSNO_01
+This is my first task of codsoft internship.
